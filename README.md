@@ -1,30 +1,41 @@
-ملف اقرأني
-كشف عمليات التصيد الاحتيالي - تقرير مختبر TryHackMe
-ملخص المشروع
-يحتوي هذا المستودع على أعمال التحقيق الجنائي وإعداد التقارير التي أنجزتها لمختبر "كشف التصيد الاحتيالي" على TryHackMe.
-قمتُ بفحص جميع التنبيهات الصادرة خلال التدريب، وأنتجتُ تقريرًا موحدًا بصيغة PDF يتضمن النتائج والتحليلات والتوصيات. تم تحميل هذا الملف في هذا المستودع.
+Phishing Analysis Lab - TryHackMe Lab Report
 
-ماذا فعلت
-تم إكمال مختبر Phishing Unfolding على TryHackMe.
-تم جمع ومراجعة جميع التنبيهات الأمنية والتحف ذات الصلة.
-أجرى فرزًا وتحليلًا جنائيًا للتنبيهات (الجدول الزمني والكيانات والأدلة).
-تم تجميع تقرير PDF احترافي يغطي:
-الجدول الزمني للحادث والأحداث الرئيسية
-تحليل وتصنيف التنبيه تلو الآخر (TP / FP / التفاصيل المفقودة)
-الأدلة والتحف التي تم فحصها
-فرضيات السبب الجذري وتدفق الهجوم
-التخفيفات والتوصيات
-محتويات المستودع
-Phishing_Unfolding_Report.pdf→ تقرير موحد كامل يتضمن النتائج، ولقطات الشاشة، والجداول الزمنية، وخطوات العلاج.
-أهم النقاط الرئيسية
-تم تحديد تقنيات الوصول الأولية والقطع الأثرية المبنية على التصيد الاحتيالي.
-تمت إعادة بناء الجدول الزمني للهجوم من التنبيهات.
-تم توثيق المخاطر المحتملة وتقديم المشورة بشأن الكشف عنها واحتوائها.
-تحسينات مقترحة في المراقبة وتصفية البريد الإلكتروني والتدريب على التوعية.
-الأدوات والتقنيات
-بيئة مختبر TryHackMe
-مراجعة التنبيهات/السجلات والارتباط
-سبلانك
-إعادة بناء الجدول الزمني
-المراجعة الجنائية للقطع الأثرية المصدرة
-كتابة التقارير بصيغة PDF 
+Project Overview
+
+This repository contains the forensic investigation and reporting work I completed for the "Phishing Unfolding" lab on TryHackMe. I thoroughly examined all alerts generated during the training and produced a comprehensive PDF report containing findings, analyses, and recommendations. This report has been uploaded to this repository.
+
+What I Accomplished
+
+· Completed the "Phishing Unfolding" lab on TryHackMe
+· Collected and reviewed all relevant security alerts and artifacts
+· Performed alert triage and forensic analysis (timeline, entities, evidence)
+· Compiled a professional PDF report covering:
+  · Incident timeline and key events
+  · Individual alert analysis and classification (True Positive/False Positive/Missing Details)
+  · Evidence and artifacts examined
+  · Root cause hypotheses and attack flow
+  · Mitigation strategies and recommendations
+
+Repository Contents
+
+· Phishing_Unfolding_Report.pdf → Comprehensive unified report including findings, screenshots, timelines, and remediation steps
+
+Key Highlights
+
+· Identified initial access techniques and phishing-based artifacts
+· Reconstructed the attack timeline from security alerts
+· Documented potential risks and provided detection and containment guidance
+· Proposed improvements for monitoring, email filtering, and security awareness training
+
+Tools & Technologies
+
+· TryHackMe Lab Environment
+· Alert/Log Review and Correlation
+· Splunk
+· Timeline Reconstruction
+· Forensic Analysis of Exported Artifacts
+· PDF Report Writing
+
+---
+
+This project demonstrates practical skills in phishing incident analysis and professional security reporting.
